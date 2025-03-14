@@ -86,3 +86,6 @@ dist/
 # Docker
 
 docker-compose.override.yml
+.settings/
+.classpath
+.project
